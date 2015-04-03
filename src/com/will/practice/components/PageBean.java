@@ -1,4 +1,4 @@
-package com.will.practice.compent;
+package com.will.practice.components;
 
 
 public class PageBean<T> {

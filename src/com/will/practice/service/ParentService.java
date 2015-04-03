@@ -3,7 +3,7 @@ package com.will.practice.service;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.will.practice.compent.PageBean;
+import com.will.practice.components.PageBean;
 import com.will.practice.entity.Parent;
 
 public class ParentService extends GenericService<Parent> {

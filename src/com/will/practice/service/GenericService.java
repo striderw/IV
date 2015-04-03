@@ -2,7 +2,7 @@ package com.will.practice.service;
 
 import java.util.List;
 
-import com.will.practice.compent.PageBean;
+import com.will.practice.components.PageBean;
 
 abstract public class GenericService<T> {
 
